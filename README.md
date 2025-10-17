@@ -103,7 +103,3 @@ REST API for Account entities:
 - Spring Boot documentation: https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 - Spring Data JPA documentation: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
 - H2 database documentation: https://www.h2database.com/html/main.html
-
-```
-
-```
